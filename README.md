@@ -14,11 +14,10 @@ This is a simple task management application that allows users to add, update, r
 - Python 3.6 or higher
 - No additional libraries are required beyond the Python standard library.
 
+
 ## Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/task-management-app.git
-   cd task-management-app
-
-https://github.com/syed01-53/task_tracker_CLI
+   git clone https://github.com/syed01-53/task_tracker_CLI.git
+   cd task_tracker_CLI
