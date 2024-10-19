@@ -21,3 +21,6 @@ This is a simple task management application that allows users to add, update, r
    ```bash
    git clone https://github.com/syed01-53/task_tracker_CLI.git
    cd task_tracker_CLI
+2. Clone the repository and run the following command:
+   https://github.com/syed01-53/task_tracker_CLI
+   
